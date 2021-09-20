@@ -51,7 +51,7 @@ classifiers = [
 
 
 setup(
-    name='aiobotocore',
+    name='aiobotocore-chrisglass',
     version=read_version(),
     description='Async client for aws services using botocore and aiohttp',
     long_description='\n\n'.join((read('README.rst'), read('CHANGES.rst'))),
